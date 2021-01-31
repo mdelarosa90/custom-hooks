@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas <TodoListItem /> debe de mostrarse correctamente 1`] = `
+<Fragment>
+  <li
+    className="list-group-item"
+    key="1"
+  >
+    <p
+      className="false"
+    >
+      1
+      . 
+      Aprender React
+    </p>
+    <button
+      className="btn btn-danger"
+    >
+      Borrar
+    </button>
+  </li>
+</Fragment>
+`;
